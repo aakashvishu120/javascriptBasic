@@ -35,6 +35,9 @@ console.log("diameter" , calculateDiameter(radius));
 
 
 //using higher order function
+// A higher-order function is a function that either:
+// Takes one or more functions as arguments, or
+// Returns a function as its result.
 console.log("after using higher order function")
 const area2 = function (radius){
     return Math.PI * radius * radius;

@@ -13,3 +13,6 @@ var variables can be reassigned and redeclared within their scope.
 let variables can be reassigned but not redeclared within their scope. 
 const variables cannot be reassigned after their initial assignment. They must also be initialized when declared.
 
+
+
+

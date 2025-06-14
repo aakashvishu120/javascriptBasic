@@ -16,7 +16,7 @@ console.log(uppercase)
 
 
 console.log("lowercase function of String : ")
-let lowercase = text.toLowerCase(3);
+let lowercase = text.toLowerCase();
 console.log(lowercase)
 
 
